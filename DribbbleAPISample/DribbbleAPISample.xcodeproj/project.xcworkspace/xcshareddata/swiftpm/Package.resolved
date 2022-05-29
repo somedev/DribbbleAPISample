@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "dribbbleapi",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/somedev/DribbbleAPI",
+      "state" : {
+        "branch" : "master",
+        "revision" : "28d5f77bc4b2ea1b9a5c70a67aaa1601ead576ba"
+      }
+    }
+  ],
+  "version" : 2
+}
